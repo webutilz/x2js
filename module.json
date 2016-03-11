@@ -1,0 +1,6 @@
+{
+  "name" : "webutilz/x2js",
+  "webutilz/x2js" : {
+    "js" : ["xml2json.js"]
+  }
+}
